@@ -6,4 +6,4 @@
 
 - 📫 How to reach me **adwaikrishnan11@gmail.com**
 
-- 🤝 I’m looking for Front-end developer roles or internships
+- 🤝 I’m looking for full-stack developer roles or internships
